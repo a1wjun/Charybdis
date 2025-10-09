@@ -30,7 +30,6 @@
 
 # Charybdis - generic
 
-
 ## BTU Mod
 
 Very smooth, *very expensive*.
@@ -111,6 +110,11 @@ Print:
 
 Print and snap off supports. Sand the burrs if necessary.
 
+## 12mm Bosch BTU
+
+This is an adapter for the BALL TRANSFER UNIT KU-B8-OFK R053010810 from Bosch Rexroth.
+
+See files in `mods/12_6mm-btu-bottom-bracket`.
 
 ## Trackpad mod for the Charybdis
 
